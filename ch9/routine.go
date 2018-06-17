@@ -8,7 +8,7 @@ import (
 func main() {
 	ch := make(chan int, 1)
 
-	wg := sync.WaitGroup{}
+	var wg sync.WaitGroup
 
 	var fn func(ch chan int)
 	fn = func(ch chan int) {
