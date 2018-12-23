@@ -18,5 +18,5 @@ func main() {
 		}
 		buf.WriteRune(r)
 	}
-	fmt.Println(buf.String())
+	fmt.Println(buf.String()) // a,b,c,d
 }
