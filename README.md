@@ -1,2 +1,1 @@
-# upgraded-octo-enigma
-personal notes
+# Personal notes
