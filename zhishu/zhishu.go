@@ -9,7 +9,7 @@ import (
 )
 
 func init() {
-	log.SetPrefix("sss:")
+	log.SetPrefix("zhi shu bi rang: ")
 	log.SetFlags(0)
 }
 
